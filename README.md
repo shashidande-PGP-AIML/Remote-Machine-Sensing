@@ -7,7 +7,7 @@ In this body of work we describe the design, construction and validation of a mo
 There are many design challenges in building a mobile sensory platform. Here are the main challenges we intend to address.
 
 - Gas sensing and development of olfactory capability
-- 
+- Design of perception, decision and actuation system (closed loop control)
 
 
 
