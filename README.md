@@ -2,7 +2,7 @@
 The Challenge of detecting gas leaks with mobile robots.
 
 ### Introduction
-In this body of work we describe the design, construction and validation of a mobile sensory platform for gas leak monitoring. The complete system consists of a sensory system on board a small quadrotor (i.e., a four rotor mini-UAV). The goals of this system include taking mesurements of gases, sensing and identifying their source. There are many challenges in building a mobile sensory platform. We have to pay special attention the robot perception and decisión-making processes and develop the capabilities necessary for an effcient, autonomous robot. In order to achive that we need to tackle the following design challenges. 
+In this body of work we describe the design, construction and validation of a mobile sensory platform for gas leak monitoring. The complete system consists of a sensory system on board a small quadrotor (i.e., a four rotor mini-UAV). The goals of this system include taking mesurements of gases, sensing and identifying their source. There are many challenges in building a mobile sensory platform. We have to pay special attention to the robot perception and decisión-making processes and develop the capabilities necessary for an effcient, autonomous robot. In order to achive that we need to tackle the following design challenges. 
 - Gas sensing and development of olfactory capability
 - Design of perception, decision and actuation system
 - Quadrotor's limited payload
